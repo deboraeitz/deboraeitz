@@ -1,16 +1,34 @@
-## Hi there 👋
+## Olá! Eu sou a Débora Eitz 👋
 
-<!--
-**deboraeitz/deboraeitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Ciência da Computação, e atualmente trabalho como desenvolvedora **full stack**, com maior foco em **frontend**.  
 
-Here are some ideas to get you started:
+- **Tecnologias:** React com TypeScript, Node.js com Fastify, PostgreSQL.  
+- Busco colaborar em projetos que envolvem **React com TypeScript**, **Node.js** e **PostgreSQL**, ou qualquer iniciativa relacionada ao desenvolvimento web.  
+- Como me contatar: [deborat.eitz@gmail.com](mailto:deborat.eitz@gmail.com)  
+- **Curiosidade:** Sempre fui apaixonada por ciência e tecnologia! Antes de me tornar desenvolvedora, me formei em **Ciências Biológicas**.
+  
+<div>
+  <a href="https://github.com/deboraeitz">
+  <img height:"180em" src="https://github-redme-stats.vercel.app/api?username=deboraeitz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height:"189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraeitz&layout=compact&langs_counts=16&theme=tokyonight"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" alt="javascript logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
+</div>
+
+ ##
+
+ <div> 
+  <a href = "mailto:deborat.eitz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/deboraeitz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
