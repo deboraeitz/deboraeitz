@@ -13,7 +13,7 @@ Sou estudante de Ciência da Computação, e atualmente trabalho como desenvolve
   <img height:"189em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraeitz&layout=compact&langs_counts=16&theme=tokyonight"/>
 </div>
 
-<div align="left">
+<div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
